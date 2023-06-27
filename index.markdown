@@ -6,7 +6,7 @@ title: Home
 
 layout: page
 ---
-### A Hackathon for Named Solution Engineers to solve real-world security challenges using Snyk's platform. Work in teams to create prototypes & learn about software security trends. Winners will be recognized.
+### Witness teams collaborate, innovate and solve real-world challenges in our Security Hackathon and recognize the winners!
 
 ## __*Our hackathon website is currently under construction, stay tuned for an awesome coding experience! 💻🚀*__
 
