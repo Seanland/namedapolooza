@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: base
 ---
 ### A Hackathon for Named Solution Engineers to solve real-world security challenges using Snyk's platform. Work in teams to create prototypes & learn about software security trends. Winners will be recognized.
 
