@@ -23,7 +23,7 @@ email: sean.clarke@snyk.io
 description: >- # this means to ignore newlines until "baseurl:"
   A Hackathon for Named Solution Engineers to solve real-world security challenges using Snyk's platform. Work in teams to create prototypes & learn about software security trends. Winners will be recognized.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seanland.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
