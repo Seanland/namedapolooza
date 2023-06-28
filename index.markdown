@@ -14,10 +14,10 @@ layout: page
 
 ## __Past Events__ <br /> Luckily you are witnessing history in the making!
 
-### Requirements
+<!-- ### Requirements
 
 ### Objectives
 
 ### Rules
 
-### Scoring
+### Scoring -->

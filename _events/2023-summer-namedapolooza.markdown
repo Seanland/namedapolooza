@@ -1,18 +1,47 @@
 ---
-layout: page
+layout: event
 title: 2023 Summer Namedapolooza
 permalink: /events/2023-summer/
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Goal
+The goal of this hackathon is to develop innovative solutions using Snyk's capabilities to enhance security. Participants strive for technical excellence, impactful potential, seamless user experience, and creative approaches. The hackathon recognizes groundbreaking ideas, technical feasibility, scalability, and customer-centric solutions. By achieving these goals, participants contribute to a more secure software development ecosystem.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Schedule
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+| Date | Event | Description |
+|------|-------|-------------|
+| July 14, 2023 | Kickoff Call |  |
+| July 17, 2023 | Hackathon Day ||
+| July 18, 2023 | Hackathon Day ||
+| July 19, 2023 | Clean Up Date ||
+| July 20, 2023 | Clean Up Date ||
+| July 21, 2023 | Presentation Day!||
 
+## Conditions
+* Permitted to work as an individual or in groups of up to 4. 
+* No existing projects to be used, however:
+ * Existing libraries and tools can be used to build your project.
+* You _are_ allowed to be a participant and judge, however, you sacrifice your shot at a prize.
+* The project is functioning and operational. 
+* Have fun!
 
-[jekyll-organization]: https://github.com/jekyll
+## Instructions
+* Create a repository
+
+## Partipants and Projects
+
+| Particpants | Repository | Description |
+| --------------- | --------------- | --------------- |
+| [Sean Clarke](https://github.com/Seanland) | [namedapolooza](https://github.com/Seanland/namedapolooza)  | This is a sample repo.  Cut and paste this creating a new row and modify the details. |
+
+## Scoring
+Scoring will be based on the following criteria:
+- The solution with exceptional technical excellence, impactful potential, seamless user experience, and effective presentation stands out as the winner.
+- The solution that showcases groundbreaking ideas, challenges existing norms, is technically feasible, and scalable is recognized as innovative.
+- The solution demonstrating unique approaches, visually appealing design, out-of-the-box thinking, and compelling storytelling is awarded as the most creative.
+- The solution that addresses customer needs, offers usability, practicality, and demonstrates business viability is deemed likely to be used by a customer.
+
+## Judges
+__TBD__
