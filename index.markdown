@@ -18,7 +18,7 @@ layout: page
 
 ## __Current Hackathon__ <br /> [2023 Summer Namedapolooza](/_events/2023-summer-namedapolooza.markdown)
 
-## __Past Events__ <br /> Luckily you are witnessing history in the making!
+## __Past Events__ <br /> Luckily, you are witnessing history in the making!
 
 <!-- ### Requirements
 
