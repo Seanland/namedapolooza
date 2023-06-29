@@ -29,7 +29,7 @@ The goal of this hackathon is to develop innovative solutions using Snyk's capab
 
 ## Instructions
 * Form a team or ride solo
-* Choose a project, create a repository using [this template](https://github.com/Seanland/namedapolooza)
+* Choose a project, create a repository using [this template - still being built](https://github.com/Seanland/namedapolooza)
 * Plan and assign tasks
 * __Add details to "Participants and Projects" section__, or
   * share them with [Sean Clarke](https://github.com/Seanland)
