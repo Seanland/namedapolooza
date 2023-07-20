@@ -44,7 +44,7 @@ The goal of this hackathon is to develop innovative solutions using Snyk's capab
 
 | Particpants | Repository | Description |
 | --------------- | --------------- | --------------- |
-| [Sean Clarke](https://github.com/Seanland) | [namedapolooza](https://github.com/Seanland/namedapolooza)  | This is a sample repo.  Cut and paste this creating a new row and modify the details. |
+| [Sean Clarke](https://github.com/Seanland) | [snyk-vuln-hunter](https://github.com/Seanland/snyk-vuln-hunter)  | Snyk Vuln Hunter is a Python-based CLI tool that filters vulnerabilities based on CWE or CVE numbers. It leverages the Snyk CLI to identify vulnerabilities and provides a targeted approach to vulnerability management by focusing on specified CWE or CVE numbers. |
 
 ## Scoring
 Scoring will be based on the following criteria:
