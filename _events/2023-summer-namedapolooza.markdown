@@ -44,7 +44,11 @@ The goal of this hackathon is to develop innovative solutions using Snyk's capab
 
 | Particpants | Repository | Description |
 | --------------- | --------------- | --------------- |
-| Morgan Smith  Andrew Southard  Jenny Hinz  [Joe Shope](https://github.com/joeshope) | [Snyk PR Check Failure Notification](https://github.com/joeshope/namedapolooza-2023-summer) | The objective of this GitHub Action is to identify when Snyk PR Checks fail. When this occurs, the action will add a Reviewer to the PR so that the issue(s) can be triaged. This will help bridge the gap between AppSec Snyk Admins and Development Team(s). |
+| Morgan Smith  [Andrew Southard](https://github.com/andrewsouthard1)  Jenny Hinz<br />[Joe Shope](https://github.com/joeshope) | [Snyk PR Check Failure Notification](https://github.com/joeshope/namedapolooza-2023-summer) | The objective of this GitHub Action is to identify when Snyk PR Checks fail. When this occurs, the action will add a Reviewer to the PR so that the issue(s) can be triaged. This will help bridge the gap between AppSec Snyk Admins and Development Team(s). |
+| [Jonathan](https://github.com/jonathanatsnyk) | ["Super Secret Project"](https://github.com/jonathanatsnyk/namedapolooza-2023-summer-template) | AI_RFP_HELPER |
+| [Matt Mintzer](https://github.com/mattatsnyk)<br />Colin Simning<br />Sarah Gold | Better Customer Comms | This document is a solution for any Group Admins or team leads who use Snyk and are looking for a better way to receive communications from Snyk.
+
+Snyk is always improving and adding new features and functionality. As Snyk users, you may find that you have a preference for the kind of updates you want to receive and that you have a preference for who receives the updates. Currently, updates can be found in the Snyk blog (https://snyk.io/blog/), Updates (https://updates.snyk.io/), and release notes (https://github.com/snyk/cli/releases). Users may also be receiving updates via Slack. To better manage the updates you receive and how you receive them, please download, fill out, and submit the Customer Preferred Communications document to your Snyk Account team. |
 | [Sean Clarke](https://github.com/Seanland) | [snyk-vuln-hunter](https://github.com/Seanland/snyk-vuln-hunter)  | Snyk Vuln Hunter is a Python-based CLI tool that filters vulnerabilities based on CWE or CVE numbers. It leverages the Snyk CLI to identify vulnerabilities and provides a targeted approach to vulnerability management by focusing on specified CWE or CVE numbers. |
 
 ## Scoring
