@@ -59,4 +59,4 @@ Scoring will be based on the following criteria:
 - The solution that addresses customer needs, offers usability, practicality, and demonstrates business viability is deemed likely to be used by a customer.
 
 ## Judges
-__TBD__
+Dylan, Nevin and Tom
