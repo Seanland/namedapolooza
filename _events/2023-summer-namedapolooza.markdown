@@ -44,7 +44,7 @@ The goal of this hackathon is to develop innovative solutions using Snyk's capab
 
 | Particpants | Repository | Description |
 | --------------- | --------------- | --------------- |
-| Morgan Smith\nAndrew Southard\nJenny Hinz\n[Joe Shope](https://github.com/joeshope) | [Snyk PR Check Failure Notification](https://github.com/joeshope/namedapolooza-2023-summer) | The objective of this GitHub Action is to identify when Snyk PR Checks fail. When this occurs, the action will add a Reviewer to the PR so that the issue(s) can be triaged. This will help bridge the gap between AppSec Snyk Admins and Development Team(s). |
+| Morgan Smith  Andrew Southard  Jenny Hinz  [Joe Shope](https://github.com/joeshope) | [Snyk PR Check Failure Notification](https://github.com/joeshope/namedapolooza-2023-summer) | The objective of this GitHub Action is to identify when Snyk PR Checks fail. When this occurs, the action will add a Reviewer to the PR so that the issue(s) can be triaged. This will help bridge the gap between AppSec Snyk Admins and Development Team(s). |
 | [Sean Clarke](https://github.com/Seanland) | [snyk-vuln-hunter](https://github.com/Seanland/snyk-vuln-hunter)  | Snyk Vuln Hunter is a Python-based CLI tool that filters vulnerabilities based on CWE or CVE numbers. It leverages the Snyk CLI to identify vulnerabilities and provides a targeted approach to vulnerability management by focusing on specified CWE or CVE numbers. |
 
 ## Scoring
