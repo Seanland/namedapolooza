@@ -5,7 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: A Hackathon for ~~Named~~ Solution Engineers to solve real-world security challenges using Snyk's platform. Work in teams to create prototypes & learn about software security trends. Winners will be recognized.
+description: A Hackathon for Solution Engineers to solve real-world security challenges using Snyk's platform. Work in teams to create prototypes & learn about software security trends. Winners will be recognized.
 
 # Build settings
 
